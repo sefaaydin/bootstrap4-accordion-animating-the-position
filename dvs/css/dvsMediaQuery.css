@@ -1,0 +1,97 @@
+@charset "utf-8";
+/*
+	===================================================================	
+        Başlama Tarihi	: 11.01.2018 - 11.30 
+        Açıklama        : Bu dosya mobil uyum için bu kullanılmaktadır.
+		
+        Copyright: (c) 2011-2018 Devasa AJANS.
+	===================================================================
+*/
+
+/*
+=========================================================================================
+        Minimum genişliğe göre işlem yapmak için aşağıdaki alanları kullanıyoruz.
+=========================================================================================
+*/
+
+/* Extra small devices (portrait phones, less than 576px) */
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+
+}
+
+
+/*
+=========================================================================================
+        Maximum genişliğe göre işlem yapmak için aşağıdaki alanları kullanıyoruz.
+=========================================================================================
+*/
+
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.99px) {
+        
+}
+
+/* Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.99px) {
+        
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media (max-width: 991.99px) {
+        
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media (max-width: 1199.99px) {
+        
+}
+
+
+
+
+/*
+=========================================================================================
+               2 ekran aralığında işlem yapmak için bu alanı kullanıyoruz.
+=========================================================================================
+*/
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.99px) { 
+        
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.99px) {
+        
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.99px) {
+        
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.99px) {
+        
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
+        
+}
